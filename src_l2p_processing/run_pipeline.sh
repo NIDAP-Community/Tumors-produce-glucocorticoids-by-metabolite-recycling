@@ -1,0 +1,6 @@
+set -e
+Rscript template_function_Clean_Raw_Counts_1.R
+Rscript template_function_Filtered_Counts_1.R
+Rscript template_function_DEG_Analysis_1.R
+Rscript template_function_Volcano_Enhanced_1.R
+source("workbook_start_globals.R")
