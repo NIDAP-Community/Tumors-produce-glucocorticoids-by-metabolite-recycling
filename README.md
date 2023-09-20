@@ -1,7 +1,8 @@
 # Tumors-produce-glucocorticoids-by-metabolite-recycling
 
 This code accompanies the paper entitled:
-<br>Tumors-produce-glucocorticoids-by-metabolite-recycling
+
+<br>Taves MD, Otsuka S, Taylor MA, Donahue KM, Meyer TJ, Cam MC, Ashwell JD. Tumors produce glucocorticoids by metabolite recycling, not synthesis, and activate Tregs to promote growth. J Clin Invest. 2023 Sep 15;133(18):e164599. doi: 10.1172/JCI164599. PMID: 37471141; PMCID: PMC10503810.  [Link](https://pubmed.ncbi.nlm.nih.gov/37471141/)
 
 
 To reproduce these results, follow these steps:
